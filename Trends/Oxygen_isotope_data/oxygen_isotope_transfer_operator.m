@@ -7,7 +7,7 @@ g=Obs.d18O(1:end-1);
 
 %% embed
 
-lag=10;
+lag=15;
 
 dim=5;
 X=[];
